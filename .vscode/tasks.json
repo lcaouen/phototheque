@@ -1,0 +1,26 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "args": ["${input:componentName}"],
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "preBuild ${input:type}",
+            "group": "build",
+            "problemMatcher": [],
+            "label": "npm: preBuild ${input:type}"
+        }
+    ],
+    "inputs": [
+        {
+            "id": "type",
+            "description": "Build type:",
+            "type": "pickString",
+            "options": [
+                "phototheque",
+                "bibliotheque"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+curl "api/phototheque/getRights.php"
+-H "Accept: application/json, text/plain, */*"
+
+{
+	"loggedIn": true,
+	"sessionID": "",
+	"userID": "",
+	"isAdmin": true
+}

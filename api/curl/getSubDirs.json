@@ -1,0 +1,1301 @@
+curl "api/phototheque/getSubDirs.php?root=bibliotheque"%"2Fimages"
+-H "Accept: application/json, text/plain, */*"
+
+[
+	{
+		"id": "Archives departementales du 22",
+		"text": "Archives departementales du 22",
+		"children": [
+			{
+				"id": "1E1144 des AD22 Bourbriac",
+				"text": "1E1144 des AD22 Bourbriac (595 fichiers)",
+				"children": []
+			},
+			{
+				"id": "1E2148 des AD22 Duault",
+				"text": "1E2148 des AD22 Duault (121 fichiers)",
+				"children": []
+			},
+			{
+				"id": "85J des AD22 Fond de Kerouartz",
+				"text": "85J des AD22 Fond de Kerouartz",
+				"children": [
+					{
+						"id": "85J1 des AD22",
+						"text": "85J1 des AD22 (18 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J105 des AD22",
+						"text": "85J105 des AD22 (667 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J115 des AD22",
+						"text": "85J115 des AD22 (17 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J125 des AD22",
+						"text": "85J125 des AD22 (434 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J135 des AD22",
+						"text": "85J135 des AD22 (121 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J145 des AD22",
+						"text": "85J145 des AD22 (481 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J17 des AD22",
+						"text": "85J17 des AD22 (107 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J2 des AD22",
+						"text": "85J2 des AD22 (119 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J22 des AD22",
+						"text": "85J22 des AD22 (60 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J3 des AD22",
+						"text": "85J3 des AD22 (172 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J33 des AD22",
+						"text": "85J33 des AD22 (509 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J4 des AD22",
+						"text": "85J4 des AD22 (305 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J44 des AD22",
+						"text": "85J44 des AD22 (101 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J45 des AD22",
+						"text": "85J45 des AD22 (51 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J5 des AD22",
+						"text": "85J5 des AD22 (21 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J6 des AD22",
+						"text": "85J6 des AD22 (19 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J64 des AD22",
+						"text": "85J64 des AD22 (117 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J65 des AD22",
+						"text": "85J65 des AD22 (244 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J7 des AD22",
+						"text": "85J7 des AD22 (381 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J8 des AD22",
+						"text": "85J8 des AD22 (88 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J85 des AD22",
+						"text": "85J85 des AD22 (82 fichiers)",
+						"children": []
+					},
+					{
+						"id": "85J9 des AD22",
+						"text": "85J9 des AD22 (78 fichiers)",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "Fond Frotier cote 60J des AD22",
+				"text": "Fond Frotier cote 60J des AD22",
+				"children": [
+					{
+						"id": "AD22_60J189",
+						"text": "AD22_60J189 (20 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J190",
+						"text": "AD22_60J190",
+						"children": [
+							{
+								"id": "MONUMENTS",
+								"text": "MONUMENTS (45 fichiers)",
+								"children": []
+							},
+							{
+								"id": "PLANS_CADASTRAUX",
+								"text": "PLANS_CADASTRAUX (79 fichiers)",
+								"children": []
+							}
+						]
+					},
+					{
+						"id": "AD22_60J191",
+						"text": "AD22_60J191 (48 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J192",
+						"text": "AD22_60J192 (47 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J193",
+						"text": "AD22_60J193 (42 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J194",
+						"text": "AD22_60J194 (49 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J195",
+						"text": "AD22_60J195 (40 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J196",
+						"text": "AD22_60J196 (41 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J203",
+						"text": "AD22_60J203 (52 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J226",
+						"text": "AD22_60J226 (138 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J227",
+						"text": "AD22_60J227 (75 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J228",
+						"text": "AD22_60J228",
+						"children": [
+							{
+								"id": "CORLAY",
+								"text": "CORLAY (11 fichiers)",
+								"children": []
+							},
+							{
+								"id": "QUINTIN_AVAUGOUR",
+								"text": "QUINTIN_AVAUGOUR (23 fichiers)",
+								"children": []
+							},
+							{
+								"id": "TREGOR_GOELO",
+								"text": "TREGOR_GOELO (40 fichiers)",
+								"children": []
+							}
+						]
+					},
+					{
+						"id": "AD22_60J229",
+						"text": "AD22_60J229 (461 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J230",
+						"text": "AD22_60J230 (18 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J231",
+						"text": "AD22_60J231 (1 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J232",
+						"text": "AD22_60J232 (1 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J233",
+						"text": "AD22_60J233 (1 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J234",
+						"text": "AD22_60J234 (1 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J235",
+						"text": "AD22_60J235 (4 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J236",
+						"text": "AD22_60J236 (14 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J237",
+						"text": "AD22_60J237 (2 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J238",
+						"text": "AD22_60J238 (3 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J239",
+						"text": "AD22_60J239 (10 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J240",
+						"text": "AD22_60J240 (2 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J242",
+						"text": "AD22_60J242 (1 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J243",
+						"text": "AD22_60J243 (1 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J245",
+						"text": "AD22_60J245 (238 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J246",
+						"text": "AD22_60J246 (4 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J246_supplement",
+						"text": "AD22_60J246_supplement (1 fichiers)",
+						"children": []
+					},
+					{
+						"id": "AD22_60J43",
+						"text": "AD22_60J43 (171 fichiers)",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "Serie H des AD22 Pont-Melvez",
+				"text": "Serie H des AD22 Pont-Melvez",
+				"children": [
+					{
+						"id": "H513 des AD22 Comptes de La Feuillee en 1655",
+						"text": "H513 des AD22 Comptes de La Feuillee en 1655 (12 fichiers)",
+						"children": []
+					},
+					{
+						"id": "H514 des AD22 Scrignac et Gourin",
+						"text": "H514 des AD22 Scrignac et Gourin (13 fichiers)",
+						"children": []
+					},
+					{
+						"id": "H525 des AD22 Contrats Pont-Melvez",
+						"text": "H525 des AD22 Contrats Pont-Melvez (553 fichiers)",
+						"children": []
+					},
+					{
+						"id": "H526 des AD22 Contrats Pont-Melvez",
+						"text": "H526 des AD22 Contrats Pont-Melvez (512 fichiers)",
+						"children": []
+					},
+					{
+						"id": "H528 des AD22 Contrats Pont-Melvez",
+						"text": "H528 des AD22 Contrats Pont-Melvez (309 fichiers)",
+						"children": []
+					},
+					{
+						"id": "H538 des AD22 Contrats Pont-Melvez",
+						"text": "H538 des AD22 Contrats Pont-Melvez (47 fichiers)",
+						"children": []
+					},
+					{
+						"id": "H548 des AD22 Contrats Pont-Melvez",
+						"text": "H548 des AD22 Contrats Pont-Melvez (265 fichiers)",
+						"children": []
+					},
+					{
+						"id": "H549 des A22 Contrats Pont-Melvez",
+						"text": "H549 des A22 Contrats Pont-Melvez (22 fichiers)",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "Fonds archives de ma collection",
+		"text": "Fonds archives de ma collection",
+		"children": [
+			{
+				"id": "Arrets de noblesse Bretonne",
+				"text": "Arrets de noblesse Bretonne",
+				"children": [
+					{
+						"id": "Arret de noblesse Ermar",
+						"text": "Arret de noblesse Ermar (5 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Arret de noblesse Le Borgne de Cholliere",
+						"text": "Arret de noblesse Le Borgne de Cholliere (48 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Arret de noblesse Mace de Richebourg",
+						"text": "Arret de noblesse Mace de Richebourg (34 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Arret de noblesse Meslou de Tregain",
+						"text": "Arret de noblesse Meslou de Tregain (4 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Arret de noblesse Quintin de Kerbasquiou",
+						"text": "Arret de noblesse Quintin de Kerbasquiou (5 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Arret de noblesse Quintin de Penanru",
+						"text": "Arret de noblesse Quintin de Penanru (9 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Arret de noblesse d acigne de la roche jagu",
+						"text": "Arret de noblesse d acigne de la roche jagu (31 fichiers)",
+						"children": [
+							{
+								"id": "@eaDir",
+								"text": "@eaDir",
+								"children": [
+									{
+										"id": "archives persos keranflech kergorlay et autres 580.JPG",
+										"text": "archives persos keranflech kergorlay et autres 580.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 581.JPG",
+										"text": "archives persos keranflech kergorlay et autres 581.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 582.JPG",
+										"text": "archives persos keranflech kergorlay et autres 582.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 583.JPG",
+										"text": "archives persos keranflech kergorlay et autres 583.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 584.JPG",
+										"text": "archives persos keranflech kergorlay et autres 584.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 585.JPG",
+										"text": "archives persos keranflech kergorlay et autres 585.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 586.JPG",
+										"text": "archives persos keranflech kergorlay et autres 586.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 587.JPG",
+										"text": "archives persos keranflech kergorlay et autres 587.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 588.JPG",
+										"text": "archives persos keranflech kergorlay et autres 588.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 589.JPG",
+										"text": "archives persos keranflech kergorlay et autres 589.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 590.JPG",
+										"text": "archives persos keranflech kergorlay et autres 590.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 591.JPG",
+										"text": "archives persos keranflech kergorlay et autres 591.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 592.JPG",
+										"text": "archives persos keranflech kergorlay et autres 592.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 593.JPG",
+										"text": "archives persos keranflech kergorlay et autres 593.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 594.JPG",
+										"text": "archives persos keranflech kergorlay et autres 594.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 595.JPG",
+										"text": "archives persos keranflech kergorlay et autres 595.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 596.JPG",
+										"text": "archives persos keranflech kergorlay et autres 596.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 597.JPG",
+										"text": "archives persos keranflech kergorlay et autres 597.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 598.JPG",
+										"text": "archives persos keranflech kergorlay et autres 598.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 599.JPG",
+										"text": "archives persos keranflech kergorlay et autres 599.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 600.JPG",
+										"text": "archives persos keranflech kergorlay et autres 600.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 601.JPG",
+										"text": "archives persos keranflech kergorlay et autres 601.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 602.JPG",
+										"text": "archives persos keranflech kergorlay et autres 602.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 603.JPG",
+										"text": "archives persos keranflech kergorlay et autres 603.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 604.JPG",
+										"text": "archives persos keranflech kergorlay et autres 604.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 605.JPG",
+										"text": "archives persos keranflech kergorlay et autres 605.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 606.JPG",
+										"text": "archives persos keranflech kergorlay et autres 606.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 607.JPG",
+										"text": "archives persos keranflech kergorlay et autres 607.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 608.JPG",
+										"text": "archives persos keranflech kergorlay et autres 608.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 609.JPG",
+										"text": "archives persos keranflech kergorlay et autres 609.JPG (2 fichiers)",
+										"children": []
+									},
+									{
+										"id": "archives persos keranflech kergorlay et autres 610.JPG",
+										"text": "archives persos keranflech kergorlay et autres 610.JPG (2 fichiers)",
+										"children": []
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "Cahier d'ecoliere à Duault de Marie Denes 1937-1940",
+				"text": "Cahier d'ecoliere à Duault de Marie Denes 1937-1940 (96 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Dessins Le Merrer a Lannion",
+				"text": "Dessins Le Merrer a Lannion",
+				"children": [
+					{
+						"id": "Dessin chaire a precher de Bulat-Pestivien en 1875",
+						"text": "Dessin chaire a precher de Bulat-Pestivien en 1875 (6 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Dessin de meuble de sacristie eglise de Callac 1878",
+						"text": "Dessin de meuble de sacristie eglise de Callac 1878 (6 fichiers)",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "Documents divers",
+				"text": "Documents divers",
+				"children": [
+					{
+						"id": "1569 Loc-Envel vente de terres",
+						"text": "1569 Loc-Envel vente de terres (3 fichiers)",
+						"children": []
+					},
+					{
+						"id": "1710 Hede inventaire papiers famille Robiou",
+						"text": "1710 Hede inventaire papiers famille Robiou (11 fichiers)",
+						"children": []
+					},
+					{
+						"id": "1787 Saint Pol de Leon inventaire maison",
+						"text": "1787 Saint Pol de Leon inventaire maison (22 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Achat boeuf Bourbriac en 1645 signature Julien Bourges",
+						"text": "Achat boeuf Bourbriac en 1645 signature Julien Bourges (2 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Achat en 1670 du lieu de Launay en Saint Brandan",
+						"text": "Achat en 1670 du lieu de Launay en Saint Brandan (5 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Arbre genealogique famille noble Prouhet a Carhaix et Quimper",
+						"text": "Arbre genealogique famille noble Prouhet a Carhaix et Quimper (19 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Arpentage lieu de Kervoda en Treglamus en 1725",
+						"text": "Arpentage lieu de Kervoda en Treglamus en 1725 (16 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Aveu 1777 Quernaflen Plobannalec",
+						"text": "Aveu 1777 Quernaflen Plobannalec (21 fichiers)",
+						"children": [
+							{
+								"id": "Documents sur Melrand",
+								"text": "Documents sur Melrand (14 fichiers)",
+								"children": []
+							},
+							{
+								"id": "Documents sur Plesidy",
+								"text": "Documents sur Plesidy (70 fichiers)",
+								"children": []
+							}
+						]
+					},
+					{
+						"id": "Aveu en 1704 famille noble Bonnier sur Saint Clet",
+						"text": "Aveu en 1704 famille noble Bonnier sur Saint Clet (10 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Aveu en 1747 sur parchemin famille Becam a Taule",
+						"text": "Aveu en 1747 sur parchemin famille Becam a Taule (4 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Aveux Plougasnou",
+						"text": "Aveux Plougasnou (22 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Bail Plougasnou revolution",
+						"text": "Bail Plougasnou revolution (8 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Bail du Prieure de Landugen en 1698",
+						"text": "Bail du Prieure de Landugen en 1698 (4 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Bail en 1640 a Plouisy de noble Claude Hingant",
+						"text": "Bail en 1640 a Plouisy de noble Claude Hingant (10 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Bail parchemin de 1782 maison a Carhaix",
+						"text": "Bail parchemin de 1782 maison a Carhaix (2 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Contrat de mariage et tutelle Poulain et Jourand a Lannion",
+						"text": "Contrat de mariage et tutelle Poulain et Jourand a Lannion (46 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Contrat en 1655 a Taulé sur parchemin famille Guyomarch et Merer",
+						"text": "Contrat en 1655 a Taulé sur parchemin famille Guyomarch et Merer (8 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Contrat en 1692 sur Bothoa",
+						"text": "Contrat en 1692 sur Bothoa (2 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Dernieres volontes de noble Rene Huon capucin en 1613",
+						"text": "Dernieres volontes de noble Rene Huon capucin en 1613 (12 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Diplome de bac en 1765 de Lohier à Redon",
+						"text": "Diplome de bac en 1765 de Lohier à Redon (1 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Diplome de droit de 1824 de Francois Le Gal Saint-Brieuc",
+						"text": "Diplome de droit de 1824 de Francois Le Gal Saint-Brieuc (6 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Documents Gurunhuel Treglamus",
+						"text": "Documents Gurunhuel Treglamus (24 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Documents arbres genealogiques de Gennes",
+						"text": "Documents arbres genealogiques de Gennes (81 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Documents diplomes Dubois de la Villerabel",
+						"text": "Documents diplomes Dubois de la Villerabel (79 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Documents famille noble de montfort 17eme Lannion",
+						"text": "Documents famille noble de montfort 17eme Lannion (10 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Documents sur Seglien",
+						"text": "Documents sur Seglien (89 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Factums imprimes de 1777 pour la baronnie de Quintin",
+						"text": "Factums imprimes de 1777 pour la baronnie de Quintin (238 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Feuille impot 1791 Louis sebastien du Leslay Carhaix",
+						"text": "Feuille impot 1791 Louis sebastien du Leslay Carhaix (2 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Fond Lettres de Jean Marie de Penguern",
+						"text": "Fond Lettres de Jean Marie de Penguern (40 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Genealogie de Karnazret cabinet d hozier",
+						"text": "Genealogie de Karnazret cabinet d hozier (14 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Hommage en 1742 Sgie de Kergus en Ploulech",
+						"text": "Hommage en 1742 Sgie de Kergus en Ploulech (5 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Livre de compte de 1837 du sieur Garnier de Kerigant",
+						"text": "Livre de compte de 1837 du sieur Garnier de Kerigant (115 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Livret distribution prix ursulines de Quintin",
+						"text": "Livret distribution prix ursulines de Quintin (14 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Memoire brouillon de 1735 sur la capitation en Bretagne",
+						"text": "Memoire brouillon de 1735 sur la capitation en Bretagne (3 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Missiriac 1484 enquete preeminences",
+						"text": "Missiriac 1484 enquete preeminences (31 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Moulin de Botiliau en Bulat Pestivien en 1505 copie 18eme",
+						"text": "Moulin de Botiliau en Bulat Pestivien en 1505 copie 18eme (4 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Moulin de Lesmabon en Duault en 1568 par Morice Guynament",
+						"text": "Moulin de Lesmabon en Duault en 1568 par Morice Guynament (20 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Note de Mr le comte de Rumain sur Berhet 18eme",
+						"text": "Note de Mr le comte de Rumain sur Berhet 18eme (2 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Parchemin 1540 a Lanhelin de Francois de Chateaubriand",
+						"text": "Parchemin 1540 a Lanhelin de Francois de Chateaubriand (3 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Parchemin 1541 Kergrist-Moellou famille noble Le Bras ou Le Grand",
+						"text": "Parchemin 1541 Kergrist-Moellou famille noble Le Bras ou Le Grand (7 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Parchemin 1558 Julien Penfault Vincente Gougeon Haut Couespel",
+						"text": "Parchemin 1558 Julien Penfault Vincente Gougeon Haut Couespel (13 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Parchemin de 1473 de Guy de la Lande",
+						"text": "Parchemin de 1473 de Guy de la Lande (4 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Parchemin de 1667 de Yves Rolland de Kerloury pour le convenant Kerdreux en Berhet",
+						"text": "Parchemin de 1667 de Yves Rolland de Kerloury pour le convenant Kerdreux en Berhet (4 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Parchemin succession en 1551 Le Meur de Lesmoualch a Plounerin",
+						"text": "Parchemin succession en 1551 Le Meur de Lesmoualch a Plounerin (34 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Parchemins Plougonvelin",
+						"text": "Parchemins Plougonvelin (7 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Parchemins Plounevez famille de Launay-Kersauzon",
+						"text": "Parchemins Plounevez famille de Launay-Kersauzon (20 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Partage famille Le Coniac a Quintin revolution",
+						"text": "Partage famille Le Coniac a Quintin revolution (15 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Plan Anse de Kernic a Landerneau 1844",
+						"text": "Plan Anse de Kernic a Landerneau 1844 (8 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Proces Musuillac Gourin 17eme",
+						"text": "Proces Musuillac Gourin 17eme (41 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Proces du Rusquec succession 16eme",
+						"text": "Proces du Rusquec succession 16eme (80 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Proces en 1617 famille de Roscoet à Plumeliau",
+						"text": "Proces en 1617 famille de Roscoet à Plumeliau (28 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Proces en 1655 du parc contre de la Boessiere",
+						"text": "Proces en 1655 du parc contre de la Boessiere (1 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Procès 1738 Belle-Isle-en-Terre Geldon Bossard",
+						"text": "Procès 1738 Belle-Isle-en-Terre Geldon Bossard (4 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Procès et documents Veller 17eme 18eme",
+						"text": "Procès et documents Veller 17eme 18eme (22 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Quittance Morlaix parchemin 1786 Le Bihan de Kerallo",
+						"text": "Quittance Morlaix parchemin 1786 Le Bihan de Kerallo (3 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Registre chapelle des Marais Hillion",
+						"text": "Registre chapelle des Marais Hillion (36 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Succession Forget en 1624 a Morlaix",
+						"text": "Succession Forget en 1624 a Morlaix (16 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Succession Jouhanne du Dresnay en 1633 a Callac",
+						"text": "Succession Jouhanne du Dresnay en 1633 a Callac (9 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Vente maison Lannion 1655",
+						"text": "Vente maison Lannion 1655 (6 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Vente manoir de Kerespertz en 1572 Saint-Gilles Pommerit le Vicomte",
+						"text": "Vente manoir de Kerespertz en 1572 Saint-Gilles Pommerit le Vicomte (13 fichiers)",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "Fond Bahezre en Duault et Bourbriac",
+				"text": "Fond Bahezre en Duault et Bourbriac (245 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Fond Guillou de Stangalen",
+				"text": "Fond Guillou de Stangalen",
+				"children": [
+					{
+						"id": "Contrats de mariage Diplome",
+						"text": "Contrats de mariage Diplome (109 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Parchemins Guillou de Stangalen",
+						"text": "Parchemins Guillou de Stangalen (85 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Parchemins Hamon Mael-Carhaix",
+						"text": "Parchemins Hamon Mael-Carhaix (517 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Parchemins papiers Raguideau Carhaix",
+						"text": "Parchemins papiers Raguideau Carhaix (920 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Parchemins-Baux-Ventes de terres",
+						"text": "Parchemins-Baux-Ventes de terres (459 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Piece de proces-quittances-lettres",
+						"text": "Piece de proces-quittances-lettres (1389 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Testament Herve du Quellenec 1542",
+						"text": "Testament Herve du Quellenec 1542 (16 fichiers)",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "Fond Le Meur Pont Melvez et gurunhuel",
+				"text": "Fond Le Meur Pont Melvez et gurunhuel (599 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Fond Sgies Lesquilly et Briantel a Ploezal",
+				"text": "Fond Sgies Lesquilly et Briantel a Ploezal",
+				"children": [
+					{
+						"id": "2017-08-14 Fond de Lesquilly et Briantel a Ploezal",
+						"text": "2017-08-14 Fond de Lesquilly et Briantel a Ploezal (932 fichiers)",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "Fond de Kerouartz",
+				"text": "Fond de Kerouartz",
+				"children": [
+					{
+						"id": "Documents revolution Kerouartz Finistere",
+						"text": "Documents revolution Kerouartz Finistere (622 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Lettres et quittances anciennes Cludon",
+						"text": "Lettres et quittances anciennes Cludon (118 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Parchemins Keranflech et Kergorlay a Pestivien",
+						"text": "Parchemins Keranflech et Kergorlay a Pestivien (337 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Proces-aveux-lettres-quittances",
+						"text": "Proces-aveux-lettres-quittances (1104 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Rentiers Sgr de Lossulien",
+						"text": "Rentiers Sgr de Lossulien (57 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Rentiers et comptes Callac Plougonver et Pestivien",
+						"text": "Rentiers et comptes Callac Plougonver et Pestivien (200 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Role de cavales Plouguer et Paule 1762",
+						"text": "Role de cavales Plouguer et Paule 1762 (11 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Sgie de Rimaison",
+						"text": "Sgie de Rimaison (118 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Vente des biens des emigres de Kerouartz",
+						"text": "Vente des biens des emigres de Kerouartz (73 fichiers)",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "Fond de Rollon",
+				"text": "Fond de Rollon (233 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Fond de Rosmar et Eder",
+				"text": "Fond de Rosmar et Eder",
+				"children": [
+					{
+						"id": "Parchemins Rosmar et Eder",
+						"text": "Parchemins Rosmar et Eder (80 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Rentier de Rosmar 1744",
+						"text": "Rentier de Rosmar 1744 (115 fichiers)",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "Fond familles de Kergrech et Jehan",
+				"text": "Fond familles de Kergrech et Jehan",
+				"children": [
+					{
+						"id": "2017-01-24 Fond Kergrech-Jehan de Launay",
+						"text": "2017-01-24 Fond Kergrech-Jehan de Launay (695 fichiers)",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "Fond manoir de Kerroux en Callac",
+				"text": "Fond manoir de Kerroux en Callac (138 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Fond sur Landebaeron et Louargat depuis le 16eme",
+				"text": "Fond sur Landebaeron et Louargat depuis le 16eme (548 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Guingamp",
+				"text": "Guingamp",
+				"children": [
+					{
+						"id": "Seigneuries et nobles Guingamp 1555",
+						"text": "Seigneuries et nobles Guingamp 1555 (13 fichiers)",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "La Tour d Auvergne",
+				"text": "La Tour d Auvergne (106 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Lettres chevalier de Lagadec Guingamp",
+				"text": "Lettres chevalier de Lagadec Guingamp (59 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Levees d impots",
+				"text": "Levees d impots",
+				"children": [
+					{
+						"id": "Impot Fourrage Guemene Rostrenen 1769",
+						"text": "Impot Fourrage Guemene Rostrenen 1769 (4 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Impot Lanfains en 1748",
+						"text": "Impot Lanfains en 1748 (13 fichiers)",
+						"children": []
+					},
+					{
+						"id": "Levee de la capitation en 1745 a Quintin",
+						"text": "Levee de la capitation en 1745 a Quintin (16 fichiers)",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "Manoir de Keramborgne en Plouaret",
+				"text": "Manoir de Keramborgne en Plouaret (32 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Parchemins Sgie du Stang Quellenec",
+				"text": "Parchemins Sgie du Stang Quellenec (117 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Parchemins famille de Cornouaille",
+				"text": "Parchemins famille de Cornouaille (156 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Pestivien",
+				"text": "Pestivien",
+				"children": [
+					{
+						"id": "Prisage Pestivien 1639",
+						"text": "Prisage Pestivien 1639 (142 fichiers)",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "Prieres pour les morts Guezennec",
+				"text": "Prieres pour les morts Guezennec (8 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Rentier Sgie de Kerguech en Plouguescrant",
+				"text": "Rentier Sgie de Kerguech en Plouguescrant (36 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Rentier de la Sgie de Penhoet en Taule",
+				"text": "Rentier de la Sgie de Penhoet en Taule (49 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Rentier du Perrier en 1524 a Carhaix",
+				"text": "Rentier du Perrier en 1524 a Carhaix (27 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Saisie en 1653 Sgie de Kermenguy en Plehedel",
+				"text": "Saisie en 1653 Sgie de Kermenguy en Plehedel (93 fichiers)",
+				"children": []
+			},
+			{
+				"id": "Testament olographe marquise de Louvois",
+				"text": "Testament olographe marquise de Louvois (6 fichiers)",
+				"children": []
+			}
+		]
+	},
+	{
+		"id": "Terriers Caran Centre-Bretagne",
+		"text": "Terriers Caran Centre-Bretagne",
+		"children": [
+			{
+				"id": "Terriers domaine de Carhaix",
+				"text": "Terriers domaine de Carhaix",
+				"children": [
+					{
+						"id": "caran P 1539 vol 1 CARHAIX",
+						"text": "caran P 1539 vol 1 CARHAIX (537 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1540 vol 2 PLOUGUER",
+						"text": "caran P 1540 vol 2 PLOUGUER (543 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1541 vol 3 TREBRIVAN PLOUNEVEZEL GLOMEL PAULE",
+						"text": "caran P 1541 vol 3 TREBRIVAN PLOUNEVEZEL GLOMEL PAULE (577 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1542 vol 4 CARNOET ROSTRENEN PLOURACH MOTREFF PLEVIN",
+						"text": "caran P 1542 vol 4 CARNOET ROSTRENEN PLOURACH MOTREFF PLEVIN (577 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1543 vol 5 POULLAOUEN SPEZET",
+						"text": "caran P 1543 vol 5 POULLAOUEN SPEZET (506 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1544 vol 6 SPEZET DUAULT",
+						"text": "caran P 1544 vol 6 SPEZET DUAULT (538 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1545 vol 7 DUAULT MEZLE",
+						"text": "caran P 1545 vol 7 DUAULT MEZLE (527 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1546 vol 8 MEZLE",
+						"text": "caran P 1546 vol 8 MEZLE (520 fichiers)",
+						"children": [
+							{
+								"id": "caran P 1545 vol 7",
+								"text": "caran P 1545 vol 7 (527 fichiers)",
+								"children": []
+							}
+						]
+					},
+					{
+						"id": "caran P 1547 vol 9 COMMANDERIE DE PALLACRET",
+						"text": "caran P 1547 vol 9 COMMANDERIE DE PALLACRET (399 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1548 vol 10",
+						"text": "caran P 1548 vol 10 (508 fichiers)",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "Terriers domaine de Gourin",
+				"text": "Terriers domaine de Gourin",
+				"children": [
+					{
+						"id": "caran P 1594 vol 1",
+						"text": "caran P 1594 vol 1 (65 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1595 vol 2",
+						"text": "caran P 1595 vol 2 (526 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1596 vol 3",
+						"text": "caran P 1596 vol 3 (498 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1597 vol 4",
+						"text": "caran P 1597 vol 4 (477 fichiers)",
+						"children": []
+					}
+				]
+			},
+			{
+				"id": "Terriers domaine de Huelgoat",
+				"text": "Terriers domaine de Huelgoat",
+				"children": [
+					{
+						"id": "caran P 1747 vol 1 CHATEAUNEUF",
+						"text": "caran P 1747 vol 1 CHATEAUNEUF (482 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1748 vol 2 CHATEAUNEUF PLONEVEZ",
+						"text": "caran P 1748 vol 2 CHATEAUNEUF PLONEVEZ (457 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1749 vol 3 HUELGOAT-LOCMARIA-BERRIEN",
+						"text": "caran P 1749 vol 3 HUELGOAT-LOCMARIA-BERRIEN (474 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1750 vol 4 HUELGOAT-BERRIEN-LOQUEFFRET-POULLAOUEN- LOCMARIA",
+						"text": "caran P 1750 vol 4 HUELGOAT-BERRIEN-LOQUEFFRET-POULLAOUEN- LOCMARIA (355 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1751 vol 5 LANDELEAU CLEDEN",
+						"text": "caran P 1751 vol 5 LANDELEAU CLEDEN (497 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1752 vol 6",
+						"text": "caran P 1752 vol 6 (463 fichiers)",
+						"children": []
+					},
+					{
+						"id": "caran P 1753 vol 7",
+						"text": "caran P 1753 vol 7 (357 fichiers)",
+						"children": []
+					}
+				]
+			}
+		]
+	}
+]

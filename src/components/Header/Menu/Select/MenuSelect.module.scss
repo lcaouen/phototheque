@@ -1,0 +1,43 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+.SelectWrapper{
+  display: inline-block;
+  margin-right: -10px;
+
+  &::after{
+    content: '';
+    position: relative;
+    display: inline-block; 
+    border-color: transparent;
+    border-top-color: #444; 
+    border-width: 5px;
+    border-style: solid;
+    pointer-events: none;
+    transform: translateY(calc(50% - 3px)) translateX(-200%);
+  }
+}
+.Select{
+  display: inline-block;
+  appearance: none;
+  height: 100%;
+  padding-right: calc(1rem + 15px);
+  padding-left: 1rem;
+  background-color: inherit;
+  border: 1px solid #ececec;
+  font-family: inherit;
+  color: inherit;
+
+  &:hover{
+    background-color: rgba(0, 0, 0, 0.03);
+    color: black;
+    cursor: pointer;
+  }
+
+  &:focus{
+    outline: none;
+  }
+
+  &>option{
+    background-color: #FFF;
+  }
+}

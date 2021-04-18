@@ -1,0 +1,23 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+.Icon{
+  margin-bottom: 3px;
+  transition: transform 300ms ease;
+}
+
+.PanelTab{
+  &:hover{
+    color: #000 !important;
+    background-color: #eee;
+  }
+}
+
+.Active{
+  color: #fff !important;
+  background-color: #0074d9;
+
+  &:hover{
+    color: #fff !important;
+    background-color: #0074d9;
+  }
+}

@@ -1,0 +1,14 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+.Icon{
+  margin-bottom: 3px;
+}
+
+.Container{
+  height: 100%;
+  display: inline-block;
+  &:hover{
+    color: black;
+    cursor: pointer;
+  }
+}
